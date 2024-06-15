@@ -5,3 +5,4 @@ scikit_learn
 streamlit
 yfinance
 matplotlib
+tensorflow
