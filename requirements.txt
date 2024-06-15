@@ -1,0 +1,7 @@
+keras==3.3.3
+numpy==1.21.1
+pandas==2.2.2
+scikit_learn==1.5.0
+streamlit==1.34.0
+yfinance==0.2.40
+matplotlib==3.6.2
